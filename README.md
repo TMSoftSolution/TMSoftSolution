@@ -1,16 +1,9 @@
 # A Professional ⚛️Web, 📱Mobile, 🦊Blockchain Developer
 
-🎉Dear clients!!! Thank you for visiting my profile.
-Are you looking for a passionate professional, who can help you to solve your problems in an effective and convenient way?
-Then you have landed on the right profile.
-With hard-earned knowledge, skills and 6+ years of continuous learning, hustle and improvements as a developer, I would be able to help you in the best possible way, fulfilling your requirements from Design to Deploy.
+## 🎉 I am ...
+Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes.  Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.
 
-✅ Blockchain Field:
-📌 Ethereum, Binance Smart Chain, Polygon, Avalanche C-Chain, Solana
-📌 DeFi(AMM models, Yield Farming, Staking, Liquidity Pools), Dex, NFT MarketPlace
-📌 Smart Contract, Web3.js/Solana-Web3.js, Ether.js, Truffle/Remix, Anchor
-
-✅ Web Field:
+⚛️ Web Field:
 📌 Node.js(ExpressJS/NestJS), .NET Core, AWS Lambda, CI, Laravel
 📌 React/Redux/Next.js(Typescript based), Angular/Angular Universal/RxJS
 📌 Bootstrap, TailwindCSS, Styled Components, Sass/Less, MUI/Chakra UI/Kendo UI
@@ -18,6 +11,15 @@ With hard-earned knowledge, skills and 6+ years of continuous learning, hustle a
 📌 React Native, Ionic Framework
 📌 Firebase, AWS Service, Notion, Trello, Digital Ocean
 📌 GitHub Action/GitLab CI/BitBucket Pipeline, Netlify/Heroku
+
+⚛️ Blockchain Field:
+📌 Ethereum, Binance Smart Chain, Polygon, Avalanche C-Chain, Solana
+
+📌 DeFi(AMM models, Yield Farming, Staking, Liquidity Pools), Dex, NFT MarketPlace
+
+📌 Smart Contract, Web3.js/Solana-Web3.js, Ether.js, Truffle/Remix, Anchor
+
+
 
 ✅ Programming Languages: C/C++/C#, Python, Javascript, PHP, Solidity, Rust
 
