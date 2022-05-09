@@ -3,29 +3,37 @@
 ## 🎉 I am ...
 Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes.  Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.
 
-⚛️ Web Field:
-📌 Node.js(ExpressJS/NestJS), .NET Core, AWS Lambda, CI, Laravel
-📌 React/Redux/Next.js(Typescript based), Angular/Angular Universal/RxJS
+### ⚛️ Web Field:
+
+📌 Node.js(ExpressJS/NestJS), .NET Core, AWS Lambda, CI, Laravel, Java, Python
+
+📌 React/Redux/Next.js(Typescript based), Vue/Vuex/Nuxt.JS Angular/Angular Universal/RxJS
+
 📌 Bootstrap, TailwindCSS, Styled Components, Sass/Less, MUI/Chakra UI/Kendo UI
-📌 Headless/Prismic, Shopify, WordPress
-📌 React Native, Ionic Framework
+
 📌 Firebase, AWS Service, Notion, Trello, Digital Ocean
+
 📌 GitHub Action/GitLab CI/BitBucket Pipeline, Netlify/Heroku
 
-⚛️ Blockchain Field:
+### 📱 Mobile Field:
+
+📌 Native Android: Kotlin, Java, Jetpack
+
+📌 Native iOS: Swift, Swift UI, Objective-C
+
+📌 Cross Platform: React Native, Flutter
+
+### 🦊 Blockchain Field:
+
 📌 Ethereum, Binance Smart Chain, Polygon, Avalanche C-Chain, Solana
 
 📌 DeFi(AMM models, Yield Farming, Staking, Liquidity Pools), Dex, NFT MarketPlace
 
-📌 Smart Contract, Web3.js/Solana-Web3.js, Ether.js, Truffle/Remix, Anchor
+📌 Smart Contract, Web3.js, Ether.js, Truffle/Remix, Anchor
 
-
-
-✅ Programming Languages: C/C++/C#, Python, Javascript, PHP, Solidity, Rust
-
-✅ Experienced Technology: Streaming & Image, Audio Processing
 
 Your 🏆success is my 🏆success and I will not let you down.
+
 🚀Let's have a good journey!!!
 
 <!--
