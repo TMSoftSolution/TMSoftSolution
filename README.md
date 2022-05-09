@@ -7,7 +7,7 @@ Experienced software engineer with a passion for developing innovative programs 
 
 📌 Node.js(ExpressJS/NestJS), .NET Core, AWS Lambda, CI, Laravel, Java, Python
 
-📌 React/Redux/Next.js(Typescript based), Vue/Vuex/Nuxt.JS Angular/Angular Universal/RxJS
+📌 React/Redux/Next.js(Typescript based), Vue/Vuex/Nuxt.JS, Angular/Angular Universal/RxJS
 
 📌 Bootstrap, TailwindCSS, Styled Components, Sass/Less, MUI/Chakra UI/Kendo UI
 
