@@ -1,6 +1,4 @@
-### Hi there 👋
-
-A Professional ⚛️Web & 🦊Blockchain Engineer
+# A Professional ⚛️Web, 📱Mobile, 🦊Blockchain Developer
 
 🎉Dear clients!!! Thank you for visiting my profile.
 Are you looking for a passionate professional, who can help you to solve your problems in an effective and convenient way?
