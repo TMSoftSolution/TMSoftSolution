@@ -32,9 +32,9 @@ Experienced software engineer with a passion for developing innovative programs 
 📌 Smart Contract, Web3.js, Ether.js, Truffle/Remix, Anchor
 
 
-Your 🏆success is my 🏆success and I will not let you down.
+#### Your 🏆success is my 🏆success and I will not let you down.
 
-🚀Let's have a good journey!!!
+# 🚀Let's have a good journey!!!
 
 <!--
 **TMSoftSolution/TMSoftSolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
