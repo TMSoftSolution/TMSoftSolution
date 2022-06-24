@@ -1,7 +1,15 @@
 # A Professional ⚛️Web, 📱Mobile, 🦊Blockchain Developer
 
 ## 🎉 I am ...
-Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes.  Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.
+- Highly experienced full-stack software developer with a vision for developing innovative
+programs that expedite the efficiency and effectiveness of business success.
+- A skilled leader who has the proven ability to manage a small-mid-size team of
+developers to build software programs.
+- Seasoned in modern technology, programming languages, and stack to create systems
+that are reliable and user-friendly.
+- Good communicator, team spirit owner, innovative creator, and strong problem solver
+to develop software that is customized to meet a client’s needs, highlight its core
+competencies, and further its success.
 
 ### ⚛️ Web Field:
 
