@@ -13,13 +13,13 @@ competencies, and further its success.
 
 ### ⚛️ Web Field:
 
-📌 Node.js(ExpressJS/NestJS), .NET Core, AWS Lambda, CI, Laravel, Java, Python
+📌 Node.js/ExpressJS/NestJS, PHP/Laravel/CakePHP, C#/ASP.NET, Java/Spring/Boot, Python/Flask/Django, Golang
 
-📌 React/Redux/Next.js(Typescript based), Vue/Vuex/Nuxt.JS, Angular/Angular Universal/RxJS
+📌 React/Redux/Next.js/Gastby.js, Vue/Vuex/Nuxt.JS, Angular/Angular Universal/RxJS, JS/TS
 
 📌 Bootstrap, TailwindCSS, Styled Components, Sass/Less, MUI/Chakra UI/Kendo UI
 
-📌 Firebase, AWS Service, Notion, Trello, Digital Ocean
+📌 AWS Service, GCP, Azure, Digital Ocean
 
 📌 GitHub Action/GitLab CI/BitBucket Pipeline, Netlify/Heroku
 
@@ -29,7 +29,7 @@ competencies, and further its success.
 
 📌 Native iOS: Swift, Swift UI, Objective-C
 
-📌 Cross Platform: React Native, Flutter
+📌 Cross Platform: React Native, Flutter, Dart
 
 ### 🦊 Blockchain Field:
 
